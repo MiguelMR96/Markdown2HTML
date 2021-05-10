@@ -1,3 +1,6 @@
+#!/usr/bin/python3
+""" Markdown to HTML
+"""
 if __name__ == "__main__":
     import sys
     from os import path
